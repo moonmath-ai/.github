@@ -19,8 +19,8 @@ MoonLite is MoonMath’s category of inference acceleration kernels designed for
 
 Applications and platforms built by MoonMath that leverage these acceleration technologies.
 
-- [WorldJen](https://www.worldjen.com/): High-performance benchmarks for video and world models.
-- [StoryNote](https://storynote.ai/): Build Worlds. Frame by Frame.
+- <img src="https://github.com/user-attachments/assets/a73a0554-d2db-4569-b680-e5bc9c30bea2" width="40" align="center"> <b><a href="https://www.worldjen.com/">WorldJen</a></b>: High-performance benchmarks for video and world models.
+- <img src="https://github.com/user-attachments/assets/d2094b91-fe42-4817-8e21-64fcc4980994" width="40" align="center"> <strong><a href="https://storynote.ai/">StoryNote</a></strong> — Build Worlds. Frame by Frame.
 
 ### Links
 
