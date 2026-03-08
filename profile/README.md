@@ -24,17 +24,14 @@ Applications and platforms built by MoonMath that leverage these acceleration te
 
 ### Links
 
-Website
-https://moonmath.ai
+Website: https://moonmath.ai
 
-GitHub Organization
-https://github.com/moonmath-ai
+Blog: https://moonmath.ai/posts
 
-X / Twitter
-https://x.com/moonmathai
+GitHub Organization: https://github.com/moonmath-ai
 
-Blog
-https://moonmath.ai/posts
+X: https://x.com/moonmathai
 
-YouTube
-https://www.youtube.com/@MoonMath_ai
+LinkedIn: https://www.linkedin.com/company/moonmath-ai
+
+YouTube: https://www.youtube.com/@MoonMath_ai
