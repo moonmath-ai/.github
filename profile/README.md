@@ -1,6 +1,6 @@
 ---
 
-<img width="880" height="170" alt="Untitled design (99)" src="https://github.com/user-attachments/assets/f09efa9a-f73b-4301-a102-bf75084d322e" />
+<img width="880" height="170" alt="MoonMath ai (7)" src="https://github.com/user-attachments/assets/21530008-5879-4eb7-8dbb-d1cb3328719e" />
 
 ---
 **MoonMath.ai builds the performance layer for Physical AI.**
