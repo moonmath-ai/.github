@@ -13,7 +13,7 @@ MoonLite is MoonMath’s category of inference acceleration kernels designed for
 
 - [LiteAttention](https://github.com/moonmath-ai/LiteAttention): Transforming Video Diffusion with Temporal Sparse Attention
 - [LiteFFN](https://github.com/moonmath-ai/LiteFFN): Replaces standard FFN layers with a decomposed module.
-- [BackLite](https://github.com/moonmath-ai/BackLite): BackLite wraps Flash Attention 3 and uses attention sparsity to speed up the backward pass via gradient approximation. 
+- [BackLite](https://github.com/moonmath-ai/BackLite): Wraps Flash Attention 3 and uses attention sparsity to speed up the backward pass via gradient approximation. 
 
 ## Products
 
