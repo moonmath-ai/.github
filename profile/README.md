@@ -9,7 +9,7 @@ We are a small team of mathematicians & engineers building production-grade acce
 
 ## MoonLite
 
-MoonLite is MoonMath’s category of inference acceleration kernels designed for large generative models.
+MoonLite is an inference acceleration toolkit designed for large generative models.
 
 - [LiteAttention](https://github.com/moonmath-ai/LiteAttention): Transforming Video Diffusion with Temporal Sparse Attention
 - [LiteFFN](https://github.com/moonmath-ai/LiteFFN): Replaces standard FFN layers with a decomposed module.
