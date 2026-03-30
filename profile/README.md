@@ -12,7 +12,7 @@ We are a small team of mathematicians & engineers building production-grade acce
 MoonLite is an inference acceleration toolkit designed for large generative models.
 
 - [LiteAttention](https://github.com/moonmath-ai/LiteAttention): Transforming Video Diffusion with Temporal Sparse Attention
-- [LiteFFN](https://github.com/moonmath-ai/LiteFFN): Replaces standard FFN layers with a decomposed module.
+- [LiteLinear](https://github.com/moonmath-ai/LiteFFN): Replaces standard FFN layers with a decomposed module.
 - [BackLite](https://github.com/moonmath-ai/BackLite): Wraps Flash Attention 3 and uses attention sparsity to speed up the backward pass via gradient approximation.
 - [LiteRunner](https://github.com/moonmath-ai/LiteRunner): Runner for generative models with local and W&B tracking.
 
