@@ -15,14 +15,7 @@ MoonLite is an inference acceleration toolkit designed for large generative mode
 - [LiteLinear](https://github.com/moonmath-ai/LiteFFN): Replaces standard FFN layers with a decomposed module.
 - [BackLite](https://github.com/moonmath-ai/BackLite): Wraps Flash Attention 3 and uses attention sparsity to speed up the backward pass via gradient approximation.
 - [LiteRunner](https://github.com/moonmath-ai/LiteRunner): Runner for generative models with local and W&B tracking.
-
-## Products
-
-Applications and platforms built by MoonMath that leverage these acceleration technologies.
-
-- <img src="https://github.com/user-attachments/assets/a73a0554-d2db-4569-b680-e5bc9c30bea2" width="40" align="center"> <b><a href="https://www.worldjen.com/">WorldJen</a></b>: High-performance benchmarks for video and world models.
-- <img src="https://github.com/user-attachments/assets/d2094b91-fe42-4817-8e21-64fcc4980994" width="40" align="center"> <strong><a href="https://storynote.ai/">StoryNote</a></strong> — Build Worlds. Frame by Frame.
-
+  
 ### Links
 
 Website: https://moonmath.ai
