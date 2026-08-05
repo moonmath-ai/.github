@@ -1,31 +1,38 @@
----
-
-<img width="880" height="170" alt="MoonMath ai (7)" src="https://github.com/user-attachments/assets/21530008-5879-4eb7-8dbb-d1cb3328719e" />
+<img width="880" height="170" alt="MoonMath.ai" src="https://github.com/user-attachments/assets/21530008-5879-4eb7-8dbb-d1cb3328719e" />
 
 ---
+
 **MoonMath.ai builds the performance layer for Physical AI.**
 
-We are a small team of mathematicians & engineers building production-grade acceleration for the next wave of AI systems via low level algorithms and system engineering.
+We are a small team of mathematicians and engineers building production-grade acceleration for the next wave of AI systems via low-level algorithms and systems engineering.
 
-## MoonLite
+## Zro: Our flagship product
 
-MoonLite is an inference acceleration toolkit designed for large generative models.
+[Zro](https://zro.moonmath.ai) is MoonMath's private inference platform for coding agents. It gives developers fast access to open-weight models through a single endpoint, built for long-context, multi-turn workflows.
 
-- [LiteAttention](https://github.com/moonmath-ai/LiteAttention): Transforming Video Diffusion with Temporal Sparse Attention
-- [LiteLinear](https://github.com/moonmath-ai/LiteFFN): Replaces standard FFN layers with a decomposed module.
-- [BackLite](https://github.com/moonmath-ai/BackLite): Wraps Flash Attention 3 and uses attention sparsity to speed up the backward pass via gradient approximation.
-- [LiteRunner](https://github.com/moonmath-ai/LiteRunner): Runner for generative models with local and W&B tracking.
-  
-### Links
+- **Private by default** — zero request retention and no training on customer data.
+- **Built for agents** — connect Claude Code, Codex, OpenCode, Cline, and more in minutes.
+- **Open models, one endpoint** — use capable open-weight coding models without operating the serving stack yourself.
+- **Performance engineered** — powered by MoonMath's compression, custom kernels, and hardware-aware deployment.
 
-Website: https://moonmath.ai
+→ **[Get started with Zro](https://zro.moonmath.ai)**
 
-Blog: https://moonmath.ai/posts
+### MoonLite
 
-GitHub Organization: https://github.com/moonmath-ai
+MoonLite is our toolkit for accelerating large generative models:
 
-X: https://x.com/moonmathai
+- [LiteAttention](https://github.com/moonmath-ai/LiteAttention) — temporal sparse attention for video diffusion.
+- [LiteLinear](https://github.com/moonmath-ai/LiteFFN) — decomposed modules that replace standard FFN layers.
+- [BackLite](https://github.com/moonmath-ai/BackLite) — FlashAttention 3-based backward-pass acceleration using sparse gradient approximation.
+- [LiteRunner](https://github.com/moonmath-ai/LiteRunner) — experiment runner for generative models, with local and Weights & Biases tracking.
 
-LinkedIn: https://www.linkedin.com/company/moonmath-ai
+## Links
 
-YouTube: https://www.youtube.com/@MoonMath_ai
+- [Zro](https://zro.moonmath.ai)
+- [MoonMath.ai](https://moonmath.ai)
+- [Research & blog](https://moonmath.ai/posts)
+- [GitHub](https://github.com/moonmath-ai)
+- [X](https://x.com/zroai_)
+- [LinkedIn](https://www.linkedin.com/company/moonmath-ai)
+- [YouTube](https://www.youtube.com/@MoonMath_ai)
+
