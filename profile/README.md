@@ -10,10 +10,10 @@ We are a small team of mathematicians and engineers building production-grade ac
 
 [Zro](https://zro.moonmath.ai) is MoonMath's private inference platform for coding agents. It gives developers fast access to open-weight models through a single endpoint, built for long-context, multi-turn workflows.
 
-- **Private by default** — zero request retention and no training on customer data.
-- **Built for agents** — connect Claude Code, Codex, OpenCode, Cline, and more in minutes.
-- **Open models, one endpoint** — use capable open-weight coding models without operating the serving stack yourself.
-- **Performance engineered** — powered by MoonMath's compression, custom kernels, and hardware-aware deployment.
+- **Private by default:** Zero request retention and no training on customer data.
+- **Built for agents:** Connect Claude Code, Codex, OpenCode, Cline, and more in minutes.
+- **Open models, one endpoint:** Use capable open-weight coding models without operating the serving stack yourself.
+- **Performance engineered:** Powered by MoonMath's compression, custom kernels, and hardware-aware deployment.
 
 → **[Get started with Zro](https://zro.moonmath.ai)**
 
