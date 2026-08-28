@@ -2,8 +2,6 @@
 
 ---
 
-**MoonMath.ai builds the performance layer for Physical AI.**
-
 We are a small team of mathematicians and engineers building production-grade acceleration for the next wave of AI systems via low-level algorithms and systems engineering.
 
 ## Zro: Our flagship product
