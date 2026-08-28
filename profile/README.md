@@ -2,27 +2,28 @@
 
 ---
 
-We are a small team of mathematicians and engineers building production-grade acceleration for the next wave of AI systems via low-level algorithms and systems engineering.
+We are a small team of mathematicians and engineers building faster LLM inference through low-level algorithms, systems engineering, custom kernels, and hardware-aware optimization — with a focus on coding models and agentic workloads.
 
-## Zro: Our flagship product
+## Zro: Fast inference for coding agents
 
-[Zro](https://zro.moonmath.ai) is MoonMath's private inference platform for coding agents. It gives developers fast access to open-weight models through a single endpoint, built for long-context, multi-turn workflows.
+[Zro](https://zro.moonmath.ai) is MoonMath's private inference platform built for coding agents. It gives developers fast access to leading open-weight coding models through a single endpoint, optimized for long-context, multi-turn agentic workloads.
 
+- **Built for coding agents:** Connect Claude Code, Codex, OpenCode, Cline, and more in minutes.
+- **Accelerated inference:** Our serving stack is engineered for high-throughput, low-latency LLM inference.
 - **Private by default:** Zero request retention and no training on customer data.
-- **Built for agents:** Connect Claude Code, Codex, OpenCode, Cline, and more in minutes.
-- **Open models, one endpoint:** Use capable open-weight coding models without operating the serving stack yourself.
-- **Performance engineered:** Powered by MoonMath's compression, custom kernels, and hardware-aware deployment.
+- **Open models, one endpoint:** Run capable open-weight coding models without managing GPUs, inference engines, or serving infrastructure yourself.
+- **Performance from the stack down:** MoonMath combines algorithmic optimization, custom kernels, compression, and hardware-aware deployment to push more performance from modern accelerators.
 
-→ **[Get started with Zro](https://zro.moonmath.ai)**
+→ **[Start coding with Zro](https://zro.moonmath.ai)**
 
-### MoonLite
+### MoonLite: LLM acceleration research & tooling
 
-MoonLite is our toolkit for accelerating large generative models:
+MoonLite is MoonMath's collection of low-level techniques and tools for making large models faster and more efficient:
 
-- [LiteAttention:](https://github.com/moonmath-ai/LiteAttention) temporal sparse attention for video diffusion.
-- [LiteLinear:](https://github.com/moonmath-ai/LiteFFN) decomposed modules that replace standard FFN layers.
-- [BackLite:](https://github.com/moonmath-ai/BackLite) FlashAttention 3-based backward-pass acceleration using sparse gradient approximation.
-- [LiteRunner:](https://github.com/moonmath-ai/LiteRunner) experiment runner for generative models, with local and Weights & Biases tracking.
+- [LiteLinear](https://github.com/moonmath-ai/LiteFFN): decomposed modules designed to replace standard FFN layers with more efficient alternatives.
+- [BackLite](https://github.com/moonmath-ai/BackLite): FlashAttention 3-based backward-pass acceleration using sparse gradient approximation.
+- [LiteAttention](https://github.com/moonmath-ai/LiteAttention): sparse attention techniques for accelerating large generative models.
+- [LiteRunner](https://github.com/moonmath-ai/LiteRunner): experiment infrastructure for benchmarking and developing model acceleration techniques, with local and Weights & Biases tracking.
 
 ## Links
 
